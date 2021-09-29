@@ -1,4 +1,4 @@
-# Super-Trunfo-dos-PJMasks
+# Super Trunfo dos PJ Masks
 
 Jogo Super Trunfo com tema infanti do desenho PJ Masks.
 
