@@ -1,0 +1,103 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 854px;
+  background-image: url("https://bebe.abril.com.br/wp-content/uploads/2021/03/PJM_Series4_KA_Landscape.png");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  padding-bottom: 20vh;
+}
+
+h2 {
+  color: #000000;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  background: white;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  font-size: 50px;
+  color: #000000;
+  margin: 5px 0;
+  color: #760301;
+  font-family: "Raleway", sans-serif;
+  text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.986);
+}
+
+.page-logo {
+  background-color: #000000;
+  width: 110px;
+}
+
+button {
+  padding: 0.8rem 1.5rem;
+  margin: 1rem 0;
+  border-radius: 5px;
+  border: none;
+  font-size: 1rem;
+}
+
+#carta-jogador {
+  width: 360px;
+  height: 500px;
+  overflow: auto;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-end;
+}
+
+#carta-jogador h3 {
+  text-align: center;
+}
+
+.carta-imagem {
+  border: 1px solid black;
+  height: 100px;
+  margin: 10px;
+}
+
+.carta-imagem img {
+  width: 100%;
+  height: 100%;
+}
+
+.carta-status {
+  height: 160px;
+  margin: 1.5rem;
+}
+
+.carta-status input {
+  margin: 20px 10px;
+}
+
+.opcoes {
+  color: #000000;
+  font-weight: bold;
+}
+
+.carta_Imagem {
+  align-content: center;
+  width: 250px;
+  height: 250px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 5px;
+  border-style: double;
+  border-color: #c4e32c;
+}
+.carta_Imagem img {
+  width: 100%;
+  height: 100%;
+}
