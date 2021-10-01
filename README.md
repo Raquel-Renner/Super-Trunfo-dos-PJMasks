@@ -6,3 +6,5 @@ O jogo faz uma comparação entre o atributo (que varia conforme a carta) do jog
 
 Vence quem tiver o atributo maior (Ataque, defesa ou magia).
 
+Desenvolvido utilizando HTML, CSS e JavaScript.
+
